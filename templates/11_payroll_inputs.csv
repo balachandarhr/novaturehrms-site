@@ -1,0 +1,2 @@
+employee_code,payroll_month,attendance_days,payable_days,lop_days,ot_hours,ot_rate,other_earnings,other_deductions,tds_override,remarks
+EMP001,2026-10-01,26,30,0,8,150,0,0,,Monthly payroll input

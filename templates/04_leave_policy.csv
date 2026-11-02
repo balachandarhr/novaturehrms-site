@@ -1,0 +1,9 @@
+leave_code,leave_name,enabled,annual_entitlement,credit_frequency,credit_month,credit_day,carry_forward,carry_forward_ceiling
+CL,Casual Leave,YES,12,monthly,,1,NO,0
+EL,Earned Leave,YES,15,yearly,1,1,YES,30
+SL,Sick Leave,YES,12,yearly,1,1,NO,0
+LOP,Loss of Pay,YES,0,one_time,,1,NO,0
+OD,On Duty,YES,0,one_time,,1,NO,0
+COMP,Compensatory Off,YES,0,one_time,,1,NO,0
+MAT,Maternity Leave,NO,182,one_time,,1,NO,0
+PAT,Paternity Leave,NO,5,one_time,,1,NO,0

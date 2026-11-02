@@ -1,0 +1,3 @@
+employee_code,component_code,amount,eligible,effective_from
+EMP001,BASIC,18000,YES,2026-04-01
+EMP001,HRA,7200,YES,2026-04-01

@@ -1,0 +1,2 @@
+branch_name,latitude,longitude,geofence_radius_m,active
+Head Office,,,75,YES

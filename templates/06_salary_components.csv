@@ -1,0 +1,5 @@
+component_code,component_name,component_type,calculation_type,default_value,percentage_of,annual_ceiling,eligibility_rule,payment_frequency,prorate_by_attendance,minimum_amount,maximum_amount,rounding_rule,payslip_label,taxable,active
+BASIC,Basic Salary,earning,fixed,0,,,,monthly,YES,,,nearest_rupee,Basic Salary,YES,YES
+HRA,House Rent Allowance,earning,percentage,40,BASIC,,As per company policy,monthly,YES,,,nearest_rupee,HRA,YES,YES
+PF_EMP,Employee PF,deduction,percentage,12,BASIC,21600,Apply statutory ceiling/company policy,monthly,YES,,1800,nearest_rupee,Provident Fund,NO,YES
+GRATUITY,Gratuity Provision,annual_benefit,percentage,4.81,BASIC,,As per applicable law,annual,YES,,,nearest_rupee,Gratuity,NO,YES

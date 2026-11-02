@@ -1,0 +1,2 @@
+employee_code,loan_type,principal,interest_percent,start_month,instalments,instalment_amount,remarks
+EMP001,salary_advance,12000,0,2026-11-01,6,2000,Interest-free advance
