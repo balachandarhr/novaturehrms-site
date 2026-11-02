@@ -1,0 +1,2 @@
+employee_code,department,designation,mobile,email,manager_employee_code,branch,shift_name,weekly_off,date_of_birth,basic_salary,bank_account,bank_ifsc,uan
+EMP001,Production,Supervisor,9876500001,emp001@example.com,EMP000,Head Office,General,Sunday,1990-05-14,18000,123456789012,SBIN0000123,100200300400
