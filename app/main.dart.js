@@ -34138,7 +34138,7 @@ var $async$aca=A.k(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:if($.aa==null)A.aDE()
 $.aa.toString
 s=2
-return A.h(A.aBn("sb_publishable_rhmQ2uXhRZkQ60D8hHLZlw_GGO0UzFpD","https://ivehiwfzsaaetcvmcbnz.supabase.co"),$async$aca)
+return A.h(A.aBn("sb_publishable_rhmQ2uXhRZkQ60D8hHLZlw_GGO0UzFp","https://ivehiwfzsaaetcvmcbnz.supabase.co"),$async$aca)
 case 2:$.bg3=!0
 q=4
 s=7
