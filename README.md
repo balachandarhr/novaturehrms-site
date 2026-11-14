@@ -1,6 +1,6 @@
 # Novature HRMS – public site
 
-* `/` – landing page & APK download (https://balachandarhr.github.io/novaturehrms-site/)
+* `/` – landing page & APK download (https://hrms.novature.in/)
 * `/app/` – Novature HRMS web app (Flutter web build)
 * `/guide.html` – getting started guide with real screenshots
 * `/templates/` – CSV onboarding templates 01-11
